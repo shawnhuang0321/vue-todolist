@@ -1,0 +1,19 @@
+
+@import '~bootstrap/scss/functions';
+@import './helpers/_variables';
+@import '~bootstrap/scss/bootstrap';
+
+// componets style
+@import './components/_todo-item';
+@import './components/_todo-nav';
+
+.mx-12px {
+    margin: 0px 12px;
+}
+.fz-24px {
+    font-size: 24px;
+}
+
+body {
+    background: #E1E1E1;
+}

@@ -1,0 +1,16 @@
+.todo-nav {
+    a {
+    flex: 1;
+    text-align: center;
+    padding: 18px 0px;
+    color: $dark-blue;
+    font-size: 1.5rem;
+    &:active, &:hover, &.active {
+        text-decoration: none;
+        box-shadow: 0 -5px $dark-blue inset;
+    }
+    &.active {
+        color: white;
+    }
+    }
+}
