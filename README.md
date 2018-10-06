@@ -1,6 +1,8 @@
 # todolist
 
-> A Vue.js project
+* 此為六角學院練習題目。
+* 用 Vue.js 建立 todolist。
+* 用 json-server 建立資料。
 
 ## Build Setup
 
